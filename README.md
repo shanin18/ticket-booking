@@ -53,7 +53,7 @@ Ticket booking platform is an online service that facilitates the purchase and r
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- <a href="https://shopease-gamma.vercel.app/">Live Demo</a>
+- <a href="ticket-booking-delta.vercel.app">Live Demo</a>
 
 <!-- GETTING STARTED -->
 
