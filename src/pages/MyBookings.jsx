@@ -3,6 +3,7 @@ import useAuth from "../hooks/useAuth";
 import LoadingSpinner from "../components/others/LoadingSpinner";
 import axiosInstance from "../utils/axiosInstance";
 import BookingTable from "../components/others/BookingTable";
+import toast from "react-hot-toast";
 
 const MyBookings = () => {
   const [bookings, setBookings] = useState([]);
