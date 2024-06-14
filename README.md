@@ -12,7 +12,8 @@
     - [Setup](#setup)
     - [Install](#install)
     - [Run tests](#run-tests)
-    - [Email & Password](#Email-&-Password)
+    - [Email & Password](#email-&-password)
+    - [Card Details](#card-details)
     - [Deployment](#deployment)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
@@ -66,7 +67,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/shanin18/shopease.git
+  git clone https://github.com/shanin18/ticket-booking.git
 ```
 
 ### Install
@@ -74,7 +75,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd shopease
+  cd ticket-booking
   npm install
 ```
 
@@ -91,11 +92,23 @@ To run tests, run the following command:
 For login, you can use the email & password given below:
 
 ```sh
-  email: shanin1@gmail.com
+  email: user@gmail.com
   password: 123456
 ```
 
 Or you can use your google account fo authenticate.
+
+### Card details
+
+For card details, you can use the test card details given below:
+
+```sh
+  visa: 4242 4242 4242 4242
+  mm/yy: any month/any future year
+  cvc: any 3 digits
+```
+
+Or you can use your own card info.
 
 ### Deployment
 
