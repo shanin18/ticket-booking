@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useStripe, useElements, CardElement } from "@stripe/react-stripe-js";
-import axiosInstance from "../../utils/axiosInstance"; // Assuming your axios instance is correctly configured
+import axiosInstance from "../../utils/axiosInstance";
 import { useNavigate } from "react-router-dom";
 import toast from "react-hot-toast";
 
