@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const axiosInstance = axios.create({
-  baseURL: "https://ticket-booking-server-delta.vercel.app",
+  baseURL: "https://ticket-booking-server-ten.vercel.app",
 });
 
 axiosInstance.interceptors.request.use(
